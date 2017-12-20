@@ -1,2 +1,2 @@
-# Implementing-sorting-algorithms-in-Java
+# Implementing-Sorting-Algorithmms
 Insertion Sort and Quicksort
