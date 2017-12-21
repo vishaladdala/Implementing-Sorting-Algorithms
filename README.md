@@ -1,3 +1,2 @@
 # Implementing-Sorting-Algorithmms
-Insertion Sort and Quicksort in JAVA
-Bubble sort in C
+Insertion Sort, Quicksort, Mergesort in JAVA
