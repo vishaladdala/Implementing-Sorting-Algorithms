@@ -18,7 +18,7 @@ public class mergesort {
         System.out.println();
         
         mergesort(arr,0,arr.length-1);
-        System.out.println("Array after with mergesort technique:");
+        System.out.println("Array after sorting with mergesort technique:");
         for(int x: arr){
             System.out.print(x + "  ");
         }
